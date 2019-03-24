@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1553019665 source:c:\poo\proiect1\main.cpp
+	<iostream>
+	"Nod.h"
+	"Lista.h"
+
+1552761343 c:\poo\proiect1\include\nod.h
+	<iostream>
+
+1553019665 c:\poo\proiect1\include\lista.h
+	"Nod.h"
+	<iostream>
+
+1552761343 source:c:\poo\proiect1\src\nod.cpp
+	"Nod.h"
+
+1553019062 source:c:\poo\proiect1\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1552761343 source:c:\users\andur\desktop\proiect1\src\nod.cpp
+	"Nod.h"
+
+1552761343 c:\users\andur\desktop\proiect1\include\nod.h
+	<iostream>
+
+1553157944 source:c:\users\andur\desktop\proiect1\main.cpp
+	<iostream>
+	"Nod.h"
+	"Lista.h"
+
+1553157019 c:\users\andur\desktop\proiect1\include\lista.h
+	"Nod.h"
+	<iostream>
+
+1553157800 source:c:\users\andur\desktop\proiect1\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1553172091 source:c:\users\deliad\downloads\proiect1_reparat (1)\proiect1\main.cpp
+	<iostream>
+	"Nod.h"
+	"Lista.h"
+
+1552761343 c:\users\deliad\downloads\proiect1_reparat (1)\proiect1\include\nod.h
+	<iostream>
+
+1553171355 c:\users\deliad\downloads\proiect1_reparat (1)\proiect1\include\lista.h
+	"Nod.h"
+	<iostream>
+
+1552761343 source:c:\users\deliad\downloads\proiect1_reparat (1)\proiect1\src\nod.cpp
+	"Nod.h"
+
+1553171991 source:c:\users\deliad\downloads\proiect1_reparat (1)\proiect1\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1553172091 source:c:\users\deliad\downloads\proiect1_reparat (1)\proiect1 - copy\main.cpp
+	<iostream>
+	"Nod.h"
+	"Lista.h"
+
+1553179634 c:\users\deliad\downloads\proiect1_reparat (1)\proiect1 - copy\include\nod.h
+	<iostream>
+
+1553171355 c:\users\deliad\downloads\proiect1_reparat (1)\proiect1 - copy\include\lista.h
+	"Nod.h"
+	<iostream>
+
+1553178280 source:c:\users\deliad\downloads\proiect1_reparat (1)\proiect1 - copy\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1553178280 source:c:\users\deliad\downloads\proiect1_reparat (1)\proiect1 - copy\src\nod.cpp
+	"Nod.h"
+
+1553212102 source:c:\users\andur\desktop\proiect1 - copy\src\nod.cpp
+	"Nod.h"
+
+1553211534 c:\users\andur\desktop\proiect1 - copy\include\nod.h
+	<iostream>
+
+1553227405 source:c:\users\andur\desktop\proiect1 - copy\main.cpp
+	<iostream>
+	"Nod.h"
+	"Lista.h"
+
+1553207887 c:\users\andur\desktop\proiect1 - copy\include\lista.h
+	"Nod.h"
+	<iostream>
+
+1553227413 source:c:\users\andur\desktop\proiect1 - copy\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1553422136 source:c:\users\deliad\downloads\proiect1 - copy3\proiect1 - copy\main.cpp
+	<iostream>
+	"Nod.h"
+	"Lista.h"
+	<cassert>
+
+1553431294 c:\users\deliad\downloads\proiect1 - copy3\proiect1 - copy\include\nod.h
+	<iostream>
+
+1553431294 c:\users\deliad\downloads\proiect1 - copy3\proiect1 - copy\include\lista.h
+	"Nod.h"
+	<iostream>
+
+1553431294 source:c:\users\deliad\downloads\proiect1 - copy3\proiect1 - copy\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1553212102 source:c:\users\deliad\downloads\proiect1 - copy3\proiect1 - copy\src\nod.cpp
+	"Nod.h"
+
